@@ -1,0 +1,6 @@
+contacts = [
+
+    "information",
+    "home"
+
+]
